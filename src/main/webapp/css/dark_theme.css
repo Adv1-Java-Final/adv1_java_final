@@ -1,0 +1,20 @@
+.container-fluid {
+    background-color: #2d3538;
+}
+
+label, h1, h2, h3, h4, h5, span, cite, p {
+    color: aliceblue;
+}
+
+.news .jumbotron, .clubs .jumbotron, .events .jumbotron{
+    background-color: #343a40;
+}
+.news .jumbotron p, h1 {
+    color: aliceblue;
+}
+.clubs .jumbotron p, h1 {
+    color: aliceblue;
+}
+.events .jumbotron p, h1 {
+    color: aliceblue;
+}
